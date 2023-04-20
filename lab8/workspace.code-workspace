@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "lab1",
+			"path": "..\\lab1"
+		},
+		{
+			"name": "lab2",
+			"path": "..\\lab2"
+		},
+		{
+			"name": "lab3",
+			"path": "..\\lab3"
+		},
+		{
+			"name": "lab4",
+			"path": "..\\lab4"
+		},
+		{
+			"name": "lab5",
+			"path": "..\\lab5"
+		},
+		{
+			"name": "lab6",
+			"path": "..\\lab6"
+		},
+		{
+			"name": "lab7",
+			"path": "..\\lab7"
+		},
+		{
+			"name": "lab8",
+			"path": "."
+		}
+	]
+}
